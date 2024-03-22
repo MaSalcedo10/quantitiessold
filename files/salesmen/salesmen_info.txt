@@ -1,0 +1,10 @@
+Cedula;272829;Juliana Andrea;Gutierrez Rodriguez
+Cedula;151617;Ana Maria;Perez Sanchez
+Tarjeta de identidad;5678;Johanna Jisell;Gutierrez Aranda
+Tarjeta de identidad;181920;Pedro Andres;Garcia Diaz
+Pasaporte;212223;Sofia Juliana;Lopez Gutierrez
+Nit;606162;Mateo Alejandro;Sanchez Hernandez
+Tarjeta de identidad;545556;Jose Manuel;Garcia Diaz
+Tarjeta de identidad;424344;Laura Marcela;Sanchez Gomez
+Nit;606162;Mateo Alejandro;Sanchez Hernandez
+Tarjeta de identidad;181920;Pedro Andres;Garcia Diaz
